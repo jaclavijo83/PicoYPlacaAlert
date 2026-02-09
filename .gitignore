@@ -1,0 +1,23 @@
+# Android Studio / IntelliJ
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Gradle
+.gradle/
+/build/
+
+# Propiedades locales (contienen rutas de SDK y claves privadas)
+local.properties
+
+# Archivos de log y capturas
+/captures/
+*.log
+
+# Archivos del sistema
+.DS_Store
+
+# Native Build (si usas C++)
+.externalNativeBuild/
+.cxx/
